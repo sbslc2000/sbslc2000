@@ -5,6 +5,7 @@
 
 ### Channels
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=#white"/>](https://sbslc.tistory.com/)
+[<img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=#white"/>](mailto://sbslc2000@gmail.com)
 
 
 ### My Skill
