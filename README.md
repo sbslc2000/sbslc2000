@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React.js-02B3E4?style=flat&logo=react&logoColor=ffffff"/>
 
-### 최근 게시물
+### Recent Posts
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sbslc&theme=tistory)](https://sbslc.tistory.com)
 
 ### Top Langs
