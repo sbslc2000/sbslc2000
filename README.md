@@ -1,22 +1,26 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=7798AB&fontColor=0D1B1E&height=200&section=header&text=난리범석서범석&fontSize=40&animation=fadeIn&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=soft&color=1c254f&fontColor=22ffff&height=200&section=header&text=난리범석서범석&fontSize=40&animation=blinking&stroke=e741e9&strokeWidth=2)
 
 
 ### Channels
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=#white"/>](https://sbslc.tistory.com/)
-[<img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=#white"/>](mailto://sbslc2000@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=#white"/>](mailto://sbslc2000@gmail.com)
 
 
 ### My Skill
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff"/>
 
 ### Also Interested in ...
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React.js-02B3E4?style=flat&logo=react&logoColor=ffffff"/>
 
+### 최근 게시물
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sbslc&theme=tistory)](https://sbslc.tistory.com)
 
 ### Top Langs
 
