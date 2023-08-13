@@ -16,6 +16,8 @@
 ### Also Interested in ...
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React.js-02B3E4?style=flat&logo=react&logoColor=ffffff"/>
 
