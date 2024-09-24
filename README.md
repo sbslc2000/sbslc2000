@@ -26,7 +26,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### Recent Posts
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sbslc&theme=tistory)](https://sbslc.tistory.com)
+![Petefolio's Card](https://firebasestorage.googleapis.com/v0/b/petefolio-3599c.appspot.com/o/card%2Frecent.svg?alt=media)
 
 ### Top Langs
 
