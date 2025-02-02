@@ -26,7 +26,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### Recent Posts
-[![Petefolio's Card](https://firebasestorage.googleapis.com/v0/b/petefolio-3599c.appspot.com/o/card%2Frecent-v2.svg?alt=media)](https://petefolio.xyz/articles/recent)
+[![Petefolio's Card](https://firebasestorage.googleapis.com/v0/b/petefolio-3599c.appspot.com/o/card%2Frecent-v2.svg?alt=media&c=1)](https://petefolio.xyz/articles/recent)
 
 ### Top Langs
 
