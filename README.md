@@ -4,7 +4,6 @@
 
 
 ### Contact me
-[<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=#white"/>](https://sbslc.tistory.com/)
 [<img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=#white"/>](mailto://sbslc2000@gmail.com)
 
 
@@ -27,14 +26,6 @@
 
 ### Recent Posts
 [![Petefolio's Card](https://firebasestorage.googleapis.com/v0/b/petefolio-3599c.appspot.com/o/card%2Frecent-v2.svg?alt=media&c=1)](https://petefolio.xyz/articles/recent)
-
-### Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbslc2000&layout=compact)](https://github.com/sbslc2000/github-readme-stats)
-
-### Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbslc2000&theme=discord_old_blurple&show_icons=true)
 
 
 <!--
