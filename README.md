@@ -1,7 +1,4 @@
 <div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=1c254f&fontColor=22ffff&height=200&section=header&text=난리범석서범석&fontSize=40&animation=blinking&stroke=e741e9&strokeWidth=2)
-
 
 ### Contact me
 [<img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=#white"/>](mailto://sbslc2000@gmail.com)
